@@ -30,16 +30,6 @@ A simple social media project app made with Flutter wrapped in simple and beauti
 
 * Select your project and `android` option then `firebase_options.dart` file will be created. Move it to the `lib/firebase` folder.
 
-## Setting up PostgreSQL
-
-You need to have basic knowledge of PostgreSQL and have PostgreSQL installed. It's also recommended to have pgAdmin 4 installed as well. Whole code is in [here](https://github.com/joec05/social-media-app-pgsql). Each file contains code for each database, from creating schemas, tables to functions.
-
-## Setting up Express.ts
-
-You can download it [here](https://github.com/joec05/social-media-app-expressjs-server). Run `npm run build` if you modified any Typescript code, and run `npm start` to start or restart the server. 
-
-Once you have set up all of these the app is ready to use. 
-
 ## Features
 
 * Skeleton loading
